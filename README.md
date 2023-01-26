@@ -44,6 +44,11 @@
 **Ответ**
 
 1. Аккаунт на Git ![Скрин](https://github.com/Karhq/8.1-git-hw/blob/main/img_8.1/Nmb1.png)
+2-4. Клон репозитория, в каталоге ![Скрин2](https://github.com/Karhq/8.1-git-hw/blob/main/img_8.1/Nmb2.png)
+5-6. Вывод Git status ![Скрин3](https://github.com/Karhq/8.1-git-hw/blob/main/img_8.1/Nmb3.png)
+7-8. Отредактированный readme файл + вывод git status ![Скрин4](https://github.com/Karhq/8.1-git-hw/blob/main/img_8.1/Nmb4.png)
+9-11. Вывод git diff после добавления файла в коммит ![Скрин5](https://github.com/Karhq/8.1-git-hw/blob/main/img_8.1/Nmb5.png)
+12-13. Git push - вывод ![Скрин6](https://github.com/Karhq/8.1-git-hw/blob/main/img_8.1/Nmb6.png)
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
