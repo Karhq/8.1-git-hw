@@ -69,6 +69,7 @@
 
 **Ответ**
 Ссылка на коммит  
+
 https://github.com/Karhq/8.1-git-hw/commit/db33a802637a5feda3b8c05ec6eee63d699dc71c
 
 ---
