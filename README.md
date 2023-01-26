@@ -38,6 +38,7 @@
 11. Ещё раз выполните команды git diff и git diff --staged.
 12. Теперь можно сделать коммит git commit -m 'First commit'.
 13. Сделайте git push origin master.
+
 `Приведите ответ в свободной форме........`
 
 **Ответ**
